@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7f4571d3-70e1-4848-b847-74353b6c0a19)# PowerBI-Reinforcement- Laptop Price Prediction Analysis
+PowerBI-Reinforcement- Laptop Price Prediction Analysis
 
 Project Description:
 
